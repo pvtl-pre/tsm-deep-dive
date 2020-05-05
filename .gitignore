@@ -1,2 +1,7 @@
 
 .ipynb_checkpoints/
+acme_fitness_demo/
+.envrc
+.DS_Store
+kubeconfig-acme-c1.yml
+kubeconfig-acme-c2.yml
