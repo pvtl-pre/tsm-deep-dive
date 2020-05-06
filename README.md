@@ -13,4 +13,4 @@
 
 ## [Demo 1 Runbook](demo-1-runbook.ipynb)
 
-## [Bonus Demo Runbook](bonus-demo-runbook.ipynb)
+## [Demo 2 Runbook](demo-2-runbook.ipynb)
