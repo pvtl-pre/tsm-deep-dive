@@ -12,3 +12,5 @@
   - [Z shell kernel for Jupyter](https://github.com/danylo-dubinin/zsh-jupyter-kernel)
 
 ## [Demo 1 Runbook](demo-1-runbook.ipynb)
+
+## [Bonus Demo Runbook](bonus-demo-runbook.ipynb)
