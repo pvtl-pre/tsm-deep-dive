@@ -11,6 +11,10 @@
   - [JupyterLab](https://jupyter.org/install.html)
   - [Z shell kernel for Jupyter](https://github.com/danylo-dubinin/zsh-jupyter-kernel)
 
-## [Demo 1 Runbook](demo-1-runbook.ipynb)
+## [Onboarding Runbook](onboarding-runbook.ipynb)
 
-## [Demo 2 Runbook](demo-2-runbook.ipynb)
+## [Policy Runbook](policy-runbook.ipynb)
+
+## [Load Balancing Runbook](load-balancing-runbook.ipynb)
+
+## [GNS Runbook](gns-runbook.ipynb)
